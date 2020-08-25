@@ -1772,8 +1772,9 @@ div .pi-inner h2 {
 	font-weight: 700!important;
     font-size: 82px!important;
     display: block!important;
-	margin-bottom: 0!important;
-	background: -webkit-linear-gradient(#28a745, #17a2b8)!important;
+  margin-bottom: 0!important;
+  background: rgb(255, 255, 255)!important;
+	background: -webkit-linear-gradient(#28a745, #17a2b8);
     -webkit-background-clip: text!important;
     -webkit-text-fill-color: transparent!important;
 
