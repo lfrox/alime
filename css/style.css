@@ -1273,3 +1273,32 @@ div .pi-inner h2 {
 	-ms-transform: scale(1);
 	transform: scale(1);
   }
+
+  /* welcome text */
+  
+  .single-welcome-slide .welcome-text h2 {
+
+	font-weight: 700!important;
+    font-size: 82px!important;
+    display: block!important;
+	margin-bottom: 0!important;
+	background: -webkit-linear-gradient(#28a745, #17a2b8)!important;
+    -webkit-background-clip: text!important;
+    -webkit-text-fill-color: transparent!important;
+
+  }
+
+  .single-welcome-slide {
+    position: relative!important;
+    z-index: 2!important;
+    width: 100%!important;
+    height: 680px!important;
+    background-color: #fc6060!important;
+}
+
+/* section paddin */
+
+.section-padding-80 {
+    padding-top: 50px!important;
+    padding-bottom: 80px!important;
+}
